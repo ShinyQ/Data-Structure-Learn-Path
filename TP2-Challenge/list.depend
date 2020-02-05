@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1580515688 source:c:\users\shinyq\desktop\tp2\list\list.cpp
+	"list.h"
+
+1580515694 c:\users\shinyq\desktop\tp2\list\list.h
+	<iostream>
+
+1580518994 source:c:\users\shinyq\desktop\tp2\list\main.cpp
+	"list.h"
+
+1580661638 source:d:\matkul\tp2\list\main.cpp
+	"list.h"
+
+1580660094 d:\matkul\tp2\list\list.h
+	<iostream>
+
+1580661322 source:d:\matkul\tp2\list\list.cpp
+	"list.h"
+

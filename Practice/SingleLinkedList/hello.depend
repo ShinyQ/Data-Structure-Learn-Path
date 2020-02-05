@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1580060089 source:c:\users\shinyq\desktop\tp1\hello\main.cpp
+	"hello.h"
+
+1580058601 c:\users\shinyq\desktop\tp1\hello\hello.h
+	<iostream>
+	<cstdlib>
+
+1580058581 source:c:\users\shinyq\desktop\tp1\hello\hello.cpp
+	"hello.h"
+

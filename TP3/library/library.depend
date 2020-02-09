@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1581226770 source:c:\users\shinyq\desktop\strukdat path\tp3\library\library.cpp
+	"library.h"
+
+1581184897 c:\users\shinyq\desktop\strukdat path\tp3\library\library.h
+	<iostream>
+
+1581185515 source:c:\users\shinyq\desktop\strukdat path\tp3\library\main.cpp
+	"library.h"
+

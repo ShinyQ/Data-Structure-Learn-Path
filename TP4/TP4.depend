@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1581705619 source:c:\users\shinyq\desktop\strukdat path\tp4\doublelinkedlist.cpp
+	"doublelinkedlist.h"
+
+1581705778 c:\users\shinyq\desktop\strukdat path\tp4\doublelinkedlist.h
+	<iostream>
+
+1581705577 source:c:\users\shinyq\desktop\strukdat path\tp4\main.cpp
+	"doublelinkedlist.h"
+

@@ -1,3 +1,9 @@
+/*
+    Nama : Kurniadi Ahmad Wijaya
+    NIM : 1301194024
+*/
+
+
 #include "library.h"
 
 int main(){

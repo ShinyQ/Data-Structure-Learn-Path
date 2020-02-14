@@ -2,7 +2,6 @@
     Nama : Kurniadi Ahmad Wijaya
     NIM : 1301194024
 */
-
 #include <iostream>
 #define first(L) L.first
 #define last(L) L.last

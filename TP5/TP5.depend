@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1582479713 source:c:\users\shinyq\desktop\strukdat path\tp5\cdll.cpp
+	"cdll.h"
+
+1582481335 c:\users\shinyq\desktop\strukdat path\tp5\cdll.h
+	<iostream>
+
+1582479790 source:c:\users\shinyq\desktop\strukdat path\tp5\main.cpp
+	"cdll.h"
+

@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1584071099 source:c:\users\shinyq\desktop\strukdat path\stack_latihan\main.cpp
+	"stack.h"
+
+1584070664 c:\users\shinyq\desktop\strukdat path\stack_latihan\stack.h
+	<iostream>
+
+1584070705 source:c:\users\shinyq\desktop\strukdat path\stack_latihan\stack.cpp
+	"stack.h"
+

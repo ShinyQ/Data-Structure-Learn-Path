@@ -20,9 +20,10 @@ struct elmstack {
     address next;
 };
 
-void pop(Stack &S, address &P);
+void pop(Stack &S);
 void push(Stack &S, address &P);
 bool isEmpty(Stack S);
 void createList(Stack &S);
 void createNewElmt(address &P, string nama, string nim);
 void printInfo(Stack S);
+void concat(Stack &S1, Stack &S2);

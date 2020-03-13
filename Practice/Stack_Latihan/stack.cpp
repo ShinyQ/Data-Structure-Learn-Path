@@ -1,6 +1,8 @@
 #include "stack.h"
 
-void pop(Stack &S, address &P){
+void pop(Stack &S){
+
+    address P = top(S);
     if(isEmpty(S)){
         cout << endl << "List Kosong" << endl;
     } else if (next(P) == NULL) {
@@ -43,4 +45,10 @@ void printInfo(Stack S){
         cout << info(Q).nim << endl<< endl;
         Q = next(Q);
     }
+}
+
+void concat(Stack &S, Stack &S2){
+    address Q = top(S2);
+    Q = next(Q);
+    push(S, Q);
 }

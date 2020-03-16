@@ -21,9 +21,9 @@ struct elmstack {
 };
 
 void pop(Stack &S);
-void push(Stack &S, address &P);
+void push(Stack &S, address P);
 bool isEmpty(Stack S);
 void createList(Stack &S);
 void createNewElmt(address &P, string nama, string nim);
 void printInfo(Stack S);
-void concat(Stack &S1, Stack &S2);
+void concat(Stack &S1, Stack S2);

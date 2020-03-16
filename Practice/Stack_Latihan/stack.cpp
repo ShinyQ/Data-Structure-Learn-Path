@@ -14,7 +14,7 @@ void pop(Stack &S){
     }
 }
 
-void push(Stack &S, address &P){
+void push(Stack &S, address P){
     if(isEmpty(S)){
         top(S) = P;
     } else {
@@ -47,8 +47,7 @@ void printInfo(Stack S){
     }
 }
 
-void concat(Stack &S, Stack &S2){
+void concat(Stack &S, Stack S2){
     address Q = top(S2);
-    Q = next(Q);
-    push(S, Q);
+    push(S, Q);x
 }

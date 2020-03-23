@@ -49,5 +49,5 @@ void printInfo(Stack S){
 
 void concat(Stack &S, Stack S2){
     address Q = top(S2);
-    push(S, Q);x
+    push(S, Q);
 }

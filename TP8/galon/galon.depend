@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1585540759 source:d:\strukdat path\tp8\galon\main_1301194024.cpp
+	"header_1301194024.h"
+
+1585541923 d:\strukdat path\tp8\galon\header_1301194024.h
+	<iostream>
+
+1585542210 source:d:\strukdat path\tp8\galon\body_1301194024.cpp
+	"header_1301194024.h"
+

@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1586743730 source:d:\strukdat path\practice\graph\graph\main.cpp
+	"head.h"
+
+1586743775 source:d:\strukdat path\practice\graph\graph\body.cpp
+	"head.h"
+
+1586743651 d:\strukdat path\practice\graph\graph\head.h
+	<iostream>
+

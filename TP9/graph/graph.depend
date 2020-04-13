@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1586746558 source:d:\strukdat path\tp9\graph\body_1301194024.cpp
+	"header_1301194024.h"
+
+1586746079 d:\strukdat path\tp9\graph\header_1301194024.h
+	<iostream>
+
+1586747084 source:d:\strukdat path\tp9\graph\main_1301194024.cpp
+	"header_1301194024.h"
+

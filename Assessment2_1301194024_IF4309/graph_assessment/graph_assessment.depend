@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1587357904 source:d:\strukdat path\assessment2_1301194024_if4309\graph_assessment\main_1301194024.cpp
+	"header_1301194024.h"
+
+1587356547 d:\strukdat path\assessment2_1301194024_if4309\graph_assessment\header_1301194024.h
+	"iostream"
+
+1589301706 source:d:\strukdat path\assessment2_1301194024_if4309\graph_assessment\body_1301194024.cpp
+	"header_1301194024.h"
+
